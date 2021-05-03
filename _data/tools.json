@@ -189,6 +189,15 @@
       "type": "DAST"
    },
    {
+      "title": "Offensity",
+      "url": "https://www.offensity.com/",
+      "owner": "Offensity",
+      "license": "Commercial",
+      "platforms": "SaaS",
+      "note": "Free trial (4 weeks)",
+      "type": "DAST"
+   },   
+   {
       "title": "Digifort- Inspect",
       "url": "http://www.digifort.se/en/scanner",
       "owner": "Digifort",
